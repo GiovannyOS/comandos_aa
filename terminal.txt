@@ -1,0 +1,13 @@
+mkdir--> crear carpeta
+ls-->muestra el contenido de carpeta
+cd-->ir a carpeta
+touch-->crear archivo
+pwd-->ruta en la que estas localizado
+cd ..-->regresar en carpeta
+mv-->cambiar nombre
+rm-->borrar archivo
+rmdir-->borrar carpeta
+
+git init-->inicializar
+git add-->agregar docs.
+git commit -m-->agregar comentario
